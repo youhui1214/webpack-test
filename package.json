@@ -37,6 +37,7 @@
     "webpack-merge": "^4.2.2"
   },
   "dependencies": {
+    "fast-hu-test": "0.0.1",
     "lodash": "^4.17.15"
   }
 }
